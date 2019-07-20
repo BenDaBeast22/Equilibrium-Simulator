@@ -3,7 +3,7 @@ PImage potion;
 PImage red; //Red solution used in simulation 2
 PImage colourless;//colourless solution used in simulation 2
 PImage co2;//carbon dioxide image used in sim 1
-PImage NH3;//Amonnia image used in sim1
+PImage NH3;//Amonnia image used in sim 1
 PImage chemist;
 PImage heart;
 PImage grass;
